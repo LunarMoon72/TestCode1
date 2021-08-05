@@ -1,1 +1,7 @@
-
+name: TestCode1
+main: Testcode1\LunarMoon72\Main
+version: 0.0.1
+api: 3.21.1
+mcpe-protocol: 448
+author: LunarMoon72
+description: First plugin :D
