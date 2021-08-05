@@ -1,6 +1,6 @@
 <?php
 
-namespace LunarMoon72;
+namespace LunarMoon72\TestCode1;
 
 use pocketmine\plugin\PluginBase;
 
